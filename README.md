@@ -10,7 +10,7 @@ A self-taught data/business analyst. An experienced business banker. A person wh
 * ✉️  You can contact me at [pingyen.chen1@gmail.com](mailto:pingyen.chen1@gmail.com)
 * 🧠  I'm learning everything about data analysis
 * 🤝  I'm open to collaborating on data analytic projects
-* ⚡  Do what people think you can't do!
+* ⚡  My motto is "Do what people think you can't do!"
 
 ### Skills
 
