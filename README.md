@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-A self-taught data/business analyst. An experienced business banker. A person who passed all levels of CFA exam (not an active CFA member)
+A self-taught data/business analyst. An experienced business banker. A person who passed all levels of CFA exam (but not an active CFA member now)
 
 * 🌍  I'm based in Brisbane
 * ✉️  You can contact me at [pingyen.chen1@gmail.com](mailto:pingyen.chen1@gmail.com)
