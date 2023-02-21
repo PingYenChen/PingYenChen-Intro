@@ -9,7 +9,7 @@ A self-taught data/business analyst. An experienced business banker. A person wh
 * 🌍  I'm based in Brisbane
 * ✉️  You can contact me at [pingyen.chen1@gmail.com](mailto:pingyen.chen1@gmail.com)
 * 🧠  I'm learning everything about data analysis
-* 🤝  I'm open to collaborating on data analytic projects
+* 🤝  I'm open to work for positions in business/data analysis fields. 
 * ⚡  My motto is "Do what people think you can't do!"
 
 ### Skills
